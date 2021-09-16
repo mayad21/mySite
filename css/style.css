@@ -1,0 +1,13 @@
+#main-header{
+    background-color: rgb(13, 32, 141);
+    color:#fff;
+}
+
+#showcase{
+    background-image: url('../images/showcase.jpg');
+    background-position: center right;
+    min-height:300px;
+    margin-bottom:30px;
+    text-align:center;
+
+}
