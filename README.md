@@ -1,3 +1,1 @@
-# mySite
-
-This will be HW1
+Switch to gh-pages
