@@ -1,22 +1,13 @@
-/* File: style.css
-GUI Assignment: Creating Your First Web Page
-This website displays the top 5 soccer players in Fifa 21 Ultimate Team with ther stats.
-Mustapha Ayad, UMass Lowell Computer Science, mustapha_ayad@student.uml.edu
-Copyright (c) 2021 by Mustapha. All rights reserved. May be freely copied or
-excerpted for educational purposes with credit to the author.
-updated by MA on September 16, 2021 at 10:38 PM */
-
+/* File: style.css GUI Assignment: Creating Your First Web Page This website displays the top 5 soccer players in Fifa 21 Ultimate Team with ther stats. Mustapha Ayad, UMass Lowell Computer Science, mustapha_ayad@student.uml.edu Copyright (c) 2021 by Mustapha. All rights reserved. May be freely copied or excerpted for educational purposes with credit to the author. updated by MA on September 16, 2021 at 10:38 PM */
 #main-header{
     background-color: rgb(13, 32, 141);
     color:#fff;
 }
-
 .container{
     width:80%;
     margin:auto;
     overflow:hidden;
 }
-
 .blurb{
     width:80%;
     margin:auto;
@@ -28,17 +19,14 @@ updated by MA on September 16, 2021 at 10:38 PM */
     line-height:1.6em;
     margin:0;
 }
-
 #data{
     background-color:#F6F6F6;
     color:black;
 }
-
 #showcase{
     background-image: url('../images/stadium.jpg');
     background-position: center right;
     min-height:300px;
     margin-bottom:30px;
     text-align:center;
-
 }
